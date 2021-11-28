@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yoshi-egawa.github.io/csb-dcc94/static/css/main.3dfec4f5.chunk.css",
+    "main.js": "https://yoshi-egawa.github.io/csb-dcc94/static/js/main.fdb1bce0.chunk.js",
+    "main.js.map": "https://yoshi-egawa.github.io/csb-dcc94/static/js/main.fdb1bce0.chunk.js.map",
+    "runtime-main.js": "https://yoshi-egawa.github.io/csb-dcc94/static/js/runtime-main.14123678.js",
+    "runtime-main.js.map": "https://yoshi-egawa.github.io/csb-dcc94/static/js/runtime-main.14123678.js.map",
+    "static/js/2.4d4ad78e.chunk.js": "https://yoshi-egawa.github.io/csb-dcc94/static/js/2.4d4ad78e.chunk.js",
+    "static/js/2.4d4ad78e.chunk.js.map": "https://yoshi-egawa.github.io/csb-dcc94/static/js/2.4d4ad78e.chunk.js.map",
+    "index.html": "https://yoshi-egawa.github.io/csb-dcc94/index.html",
+    "static/css/main.3dfec4f5.chunk.css.map": "https://yoshi-egawa.github.io/csb-dcc94/static/css/main.3dfec4f5.chunk.css.map",
+    "static/js/2.4d4ad78e.chunk.js.LICENSE.txt": "https://yoshi-egawa.github.io/csb-dcc94/static/js/2.4d4ad78e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14123678.js",
+    "static/js/2.4d4ad78e.chunk.js",
+    "static/css/main.3dfec4f5.chunk.css",
+    "static/js/main.fdb1bce0.chunk.js"
+  ]
+}
